@@ -17,22 +17,55 @@
 }
 
 
+/***  WILD  ***/
 h1 {
   color: Red;
   font-family: "Macondo Swash Caps";
 }
 
-h2 {
+
+/*** ELEPHANT  ***/
+
+.elephant {
+  height: 100%;
+  padding-bottom: 100px;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.05),
+      rgba(0, 0, 0, 0.05)
+    ),
+  url("../styles/images/elephant.jpg") no-repeat center center fixed;
+
   color: #8E8E38;
   font-family: "Macondo Swash Caps";
 }
 
-h3 {
+
+/***  JAGUAR  ***/
+
+.jaguar {
+  height: 100%;
+  padding-bottom: 100px;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.05),
+      rgba(0, 0, 0, 0.05)
+    ),
+  url("../styles/images/jaguar.jpg") no-repeat center center fixed;
+
   color: #C5C1AA;
   font-family: "Macondo Swash Caps";
 }
 
-h4 {
+/***  LION  ***/
+
+.lion {
+  height: 100%;
+  padding-bottom: 100px;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.05),
+      rgba(0, 0, 0, 0.05)
+    ),
+  url("../styles/images/lion.jpg") no-repeat center center fixed;
+
   color: #C67171;
   font-family: "Macondo Swash Caps";
 }
