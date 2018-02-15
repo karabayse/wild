@@ -8,6 +8,10 @@ body, html {
   color: #666;
 }
 
+#wild {
+  font-size: 150px;
+}
+
 .pimg1, .pimg2, .pimg3 {
   position: relative;
   /* opacity: 0.70; */
