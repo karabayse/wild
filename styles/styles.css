@@ -35,8 +35,12 @@ body, html {
   min-height: 400px;
 }
 
-.section {
+.section-header {
   text-align: center;
+}
+
+.section {
+  text-align: justify;
   padding: 50px 80px;
 }
 
@@ -62,7 +66,6 @@ body, html {
 }
 
 .ptext .border {
-  /* background-color: #111; */
   color: #FFF;
   padding: 20px;
 }
